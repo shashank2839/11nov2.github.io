@@ -1,0 +1,13 @@
+body {
+    background-image: url(https://images.pexels.com/photos/3030459/pexels-photo-3030459.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+
+div{
+    width: 550px;
+    padding: 30px;
+    margin: 100px auto;
+    box-shadow: 0 0 15px black;
+    text-align: center;
+    height: 35vh;
+}
+
